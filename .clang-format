@@ -1,0 +1,15 @@
+BasedOnStyle: llvm
+SortIncludes: true
+PointerAlignment: Left
+AllowShortIfStatementsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortBlocksOnASingleLine: true
+AlignEscapedNewlines: DontAlign
+AlignAfterOpenBracket: DontAlign
+SpaceAfterCStyleCast: false
+AlignTrailingComments: false
+IndentCaseLabels: true
+IndentWidth: 4
+ColumnLimit: 0
