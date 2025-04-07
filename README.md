@@ -52,7 +52,7 @@ all the nodes are scanned, the relationships can then be calculated and added to
 the .dot file.
 
 ## Planned features and status
- - [] Multiple language support
+ - [ ] Multiple language support
 
 ## Resources
  * [LLVM's opt](https://llvm.org/docs/Passes.html#dot-cfg-print-cfg-of-function-to-dot-file)
